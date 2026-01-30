@@ -1,9 +1,3 @@
-"""
-Task: Caesar Cipher Encryption & Decryption
-Description: Encrypts and decrypts text using a user-defined shift value
-Author: Your Name
-"""
-
 def caesar_cipher(text, shift, mode):
     result = ""
 
